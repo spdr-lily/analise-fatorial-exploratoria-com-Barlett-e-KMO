@@ -1,0 +1,1 @@
+# analise-fatorial-exploratoria-com-Barlett-e-KMO
